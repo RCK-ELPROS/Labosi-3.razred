@@ -17,4 +17,4 @@ Potrebno je izraditi alat za konverziju valute. Nije potrebno dohvaćati trenutn
 
 Na temelje nabrojanih komponenti potrebno je samostalno organizirati sučelje.
 
-**Napomena**: vrijednosti tečaja mogu se upisati u kod kao višedimenzionalna lista
+**Napomena**: vrijednosti tečaja mogu se upisati u kod kao višedimenzionaln polje
