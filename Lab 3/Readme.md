@@ -1,20 +1,22 @@
 # Laboratorijska vježba 2 - Konverzija valute
 
-## Aplikacija za konverziju HRK u EUR, USD i CHF prema fiksnom tečaju.
+## Aplikacija za fotografiranje i snimanje.
 
 ## Zadatak
 
-Potrebno je izraditi alat za konverziju valute. Nije potrebno dohvaćati trenutnu vrijednost valute već se može ručno upisati u kod. Potrebno je imati najmanje 3 različite valute. Valuta koja se upisuje je uvijek HRK.
+Potrebno je izraditi aplikaciju za fotografiranje i snimanje. Fotografije i video snimke nije potrebno spremiti u galeriju već se mogu spremati u zasebnu datoteku. Pritom je potrebno pripaziti na sve potrebne dozvole: FILE_STORAGE. 
+Prilikom snimanja video zapisa nije potrebno snimati i zvuk.
+
+## Bonus zadatak
+
+Implementirati filter npr. crno-bijela fotografija.
 
 ## Arhitektura
 
-- Niz fotografija koje predstavljaju zastavice država ili regija valuta
-- Polje za unos vrijednosti nad kojom želimo vršiti konverziju
-- Gumb za konverziju
-- Padajući izbornik u kojem korisnik odabire želi li prema srednjem tečaju, kupovnom ili prodajnom.
-- Tekstualni prikaz za konvertiranu vrijednost
-- Tekstualni prikaz sa nazivom odabrane valute
+- Gumb za fotografiranje
+- Mogućnost pregleda fotografija
+
 
 Na temelje nabrojanih komponenti potrebno je samostalno organizirati sučelje.
 
-**Napomena**: vrijednosti tečaja mogu se upisati u kod kao višedimenzionalna lista
+**Napomena**: proučiti Android dokumentaciju, postoje više biblioteka, no ne podržavaju sve nove verzije Android sustava.
