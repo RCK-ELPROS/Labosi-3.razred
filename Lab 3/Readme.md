@@ -1,7 +1,5 @@
 # Laboratorijska vježba 3 - Musical Keypad
 
-## Aplikacija za fotografiranje i snimanje.
-
 ## Zadatak
 
 Klijent je zatražio izradu Android aplikacije koja će poslužiti kao mali klavir. Pritiskom na tipke potrebno je pokrenuti određeni zvuk. Dizajn je potrebno samostalno izraditi. Potrebno je minimalno 6 tipki tj. 6 različitih zvukova. 
